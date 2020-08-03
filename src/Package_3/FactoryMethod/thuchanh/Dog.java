@@ -1,4 +1,4 @@
-package Package_3.FactoryMethod;
+package Package_3.FactoryMethod.thuchanh;
 
 public class Dog extends Animal {
 
@@ -6,4 +6,6 @@ public class Dog extends Animal {
     public String makeSound() {
         return "Woof";
     }
+
+
 }
