@@ -1,4 +1,4 @@
-package Package_2.ObjectPool;
+package Package_2.ObjectPool.Demo;
 
 public class TaxiApp {
     public static final int NUM_OF_CLIENT = 8;
