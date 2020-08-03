@@ -1,4 +1,4 @@
-package Package_1.Sigletion;
+package Package_1.Sigletion.demo;
 
 public class LazyInitializedSingleton {
     private static LazyInitializedSingleton instance;

@@ -1,4 +1,4 @@
-package Package_1.Sigletion;
+package Package_1.Sigletion.demo;
 
 public class DoubleCheckLockingSingleton {
     //tu khoa volatile dung de danh dau 1 bien trong java da duooc

@@ -1,4 +1,4 @@
-package Package_1.Sigletion;
+package Package_1.Sigletion.demo;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;

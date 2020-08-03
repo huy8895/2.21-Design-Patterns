@@ -1,6 +1,4 @@
-package Package_1.Sigletion;
-
-import sun.misc.SignalHandler;
+package Package_1.Sigletion.demo;
 
 public class BillPughSingleton {
 
